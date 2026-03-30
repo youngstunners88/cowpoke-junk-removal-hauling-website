@@ -1,0 +1,19 @@
+{
+  "businessName": "Cowpoke Junk Removal Hauling",
+  "category": "specialty",
+  "brandColors": {
+    "primary": "#C0392B",
+    "secondary": "#CD6155",
+    "accent": "#F1C40F",
+    "dark": "#922B21",
+    "light": "#FDEDEC"
+  },
+  "tagline": "Specialized Excellence",
+  "services": [
+    "Expert Consultation",
+    "Professional Service",
+    "Quality Workmanship",
+    "Reliable Support",
+    "Custom Solutions"
+  ]
+}
